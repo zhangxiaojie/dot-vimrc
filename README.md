@@ -171,6 +171,6 @@ All plugins are listed in file `bundles.vim` with detailed comments, just add pl
 
 Other configurations are also well organized in vimrc.
 
-## Some shortage
+## Known issues
 * Compeletions are not well supported for statically typed languages(c/c++);
 * Snippets are not shown in completions popups.
